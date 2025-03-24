@@ -105,9 +105,3 @@ By integrating **front-office operations, back-office legal work, and AI-enhance
 - `BeautifulSoup` `LangChain`
 - `Figma` `Framer Motion`
 - `SearAPI` `React Query`
-
----
-
-## 📩 Get Involved
-
-Want to contribute or collaborate? Reach out at **[Your Contact Info]**! 🚀
